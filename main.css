@@ -1,0 +1,98 @@
+.logo {
+    height: auto;
+    padding-left: 45px;
+    padding-right: 20px;
+    width: 2.5%;
+}
+
+    .navlink {
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+
+        padding-right: 20px;
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+  
+  }
+    
+    #nav2last {
+        color: #0000ff;
+   
+        font-size: 20px;
+        padding-right: 30px;
+        text-decoration: none;
+
+    }
+
+     #navlast {
+ 
+  }
+    
+    .nav {
+        #background-color: grey;
+        padding-bottom: 15px;
+        
+     
+}
+
+    #navspacer {
+        padding-right: 650px;
+}
+
+    .nav2 {
+        display: flex;
+        position: -webkit-sticky;
+	      position: sticky;
+        
+        top: 0px;
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 22px;
+        background: linear-gradient(to top, white, transparent);
+     
+}
+
+    #nav2-1 {
+      color: #ff764d;
+      padding-left: 45px;
+}
+
+    #nav2-2 {
+      padding-left: 45px;
+}
+
+
+    #main-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 15px;
+      width: 85%;
+      height: auto;
+} 
+  
+    .about {
+      font-size: 23px;
+      text-align: center;
+      padding-top: 80px;
+}
+
+    .servicetags {
+       text-decoration: none;
+       color: #0000ff;     
+}
+     
+    #disclaimer {
+      color: #ff764d;
+      padding-top: 30px;
+      position: fixed;
+      float: right;
+      z-index: 10;
+}
